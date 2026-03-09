@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Bohyung Han"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Professor"
+  location         : "Seoul, Korea"
+  employer         : "Seoul National University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bhhan@snu.ac.kr" 
 
   # Academic websites
   academia         : # URL
